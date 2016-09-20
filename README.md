@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="http://predixdev.github.io/predix-websocket-server/javadocs/index.html" target="_blank" >
 	<img height="50px" width="100px" src="images/javadoc.png" alt="view javadoc"></a>
 &nbsp;
@@ -8,3 +9,6 @@
 Websocket server to listen and broadcast data
 
 [![Analytics](https://ga-beacon.appspot.com/UA-82773213-1/predix-websocket-server/readme?pixel)](https://github.com/PredixDev)
+=======
+# predix-tv-controller-websocket
+>>>>>>> 4eeaab521f64f434bc285694d7b3d9bfed0692e9

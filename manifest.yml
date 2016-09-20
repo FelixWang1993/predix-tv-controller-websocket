@@ -1,5 +1,5 @@
 applications:
-- name: template-websocket-server
+- name: controller-websocket-server-test
   instances: 1
   memory: 512M
   timeout: 180
