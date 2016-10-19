@@ -1,7 +1,7 @@
 applications:
 - name: controller-websocket-server-test
   instances: 1
-  memory: 512M
+  memory: 256M
   timeout: 180
   path: target/predix-websocket-server-2.0.2.jar
   #services:
